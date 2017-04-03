@@ -1,0 +1,24 @@
+{
+  "name": "bookbot",
+  "version": "1.0.0",
+  "description": "book to twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MEP",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "image-downloader": "^2.0.3",
+    "request": "^2.81.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "pbs",
+    "book",
+    "swap",
+    "twitter"
+  ]
+}
